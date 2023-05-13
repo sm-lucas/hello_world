@@ -1,4 +1,4 @@
-//Recupera os valores do html
+//Recupera os valores do html //
 const formulario    = document.querySelector('form');
 
 const nome          = document.getElementById('login');
